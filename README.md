@@ -1,2 +1,2 @@
-# CRIPS DM Project Tempalte
+# CRISP DM Project Tempalte
 
